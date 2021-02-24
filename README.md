@@ -1,7 +1,5 @@
 
 # Luiz Nascimento
-
-## Olá pessoal 👋
 Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já participei de diversos projetos que impactam muitos usuários e empresas. Buscando sempre escalabilidade, confiabilidade e segurança de dados :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Riachuelo**
