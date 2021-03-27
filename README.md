@@ -9,3 +9,6 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuizNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhnnh/)](https://www.linkedin.com/in/luizhnnh/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
