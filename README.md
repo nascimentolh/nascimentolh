@@ -11,4 +11,81 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-13-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7.5%20million%20linhas%20de%20c%C3%B3digo-blue)
+
+**🐱 Meus dados no Github** 
+
+> 🏆 146 Contribuições no ano de 2021
+ > 
+> 📦 516.0 kB Usado no armazenamento do Github 
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 24 Repositórios Públicos 
+ > 
+> 🔑 6 Repositórios Privados  
+ > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Tarde      16 commits     ██████████████████░░░░░░░   72.73% 
+🌃 Noite      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **Sou mais produtivo em sábado** 
+
+```text
+Segunda-Feira0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Terça-Feira  7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
+Quarta-Feira 6 commits      ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Quinta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+sábado       8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
+domingo      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+TypeScript               2 hrs 38 mins       █████████████░░░░░░░░░░░░   51.76% 
+Elixir                   2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.78% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+
+🔥 Editores: 
+VS Code                  5 hrs 6 mins        █████████████████████████   100.0%
+
+💻 Sistema operacional: 
+Linux                    2 hrs 48 mins       █████████████░░░░░░░░░░░░   55.13% 
+Windows                  2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.87%
+
+```
+
+**Eu geralmente programo em JavaScript** 
+
+```text
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Elixir                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
+
+```
+
+
+**Linha do tempo**
+
+![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
