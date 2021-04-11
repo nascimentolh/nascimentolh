@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-34-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7.5%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -56,15 +56,15 @@ domingo      1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               1 hr 50 mins        ███████████████████░░░░░░   76.56% 
-Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
+TypeScript               1 hr 50 mins        ███████████████████░░░░░░   76.3% 
+Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
 
 🔥 Editores: 
-VS Code                  2 hrs 3 mins        █████████████████████░░░░   85.35% 
-IntelliJ                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.65%
+VS Code                  2 hrs 3 mins        █████████████████████░░░░   85.4% 
+IntelliJ                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.6%
 
 💻 Sistema operacional: 
 Linux                    2 hrs 24 mins       █████████████████████████   100.0%
