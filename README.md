@@ -19,7 +19,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 > 🏆 148 Contribuições no ano de 2021
  > 
-> 📦 516.2 kB Usado no armazenamento do Github 
+> 📦 516.3 kB Usado no armazenamento do Github 
  > 
 > 🚫 Não aberto para contratação
  > 
