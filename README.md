@@ -17,15 +17,15 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 **🐱 Meus dados no Github** 
 
-> 🏆 148 Contribuições no ano de 2021
+> 🏆 151 Contribuições no ano de 2021
  > 
-> 📦 516.4 kB Usado no armazenamento do Github 
+> 📦 516.5 kB Usado no armazenamento do Github 
  > 
 > 🚫 Não aberto para contratação
  > 
 > 📜 25 Repositórios Públicos 
  > 
-> 🔑 6 Repositórios Privados  
+> 🔑 7 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -69,11 +69,11 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Elixir                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Elixir                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
 
 ```
 
