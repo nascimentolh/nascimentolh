@@ -15,11 +15,11 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7.6%20million%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 Meus dados no Github** 
+**🐱 Meus dados no GitHub** 
 
 > 🏆 177 Contribuições no ano de 2021
  > 
-> 📦 517.6 kB Usado no armazenamento do Github 
+> 📦 517.6 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -83,5 +83,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
