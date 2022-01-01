@@ -17,7 +17,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 181 Contribuições no ano de 2021
+> 🏆 0 Contribuições no ano de 2022
  > 
 > 📦 518.0 kB Usado no armazenamento do GitHub 
  > 
@@ -83,5 +83,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
