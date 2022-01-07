@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -30,21 +30,21 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã      27 commits     █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-🌆 Tarde      62 commits     ████████████░░░░░░░░░░░░░   50.41% 
-🌃 Noite      32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.02% 
-🌙 Madrugada  2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
+🌞 Manhã      27 commits     █████░░░░░░░░░░░░░░░░░░░░   22.13% 
+🌆 Tarde      62 commits     ████████████░░░░░░░░░░░░░   50.82% 
+🌃 Noite      31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+🌙 Madrugada  2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 ```
 📅 **Sou mais produtivo em Terça-Feira** 
 
 ```text
-Segunda-Feira10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-Terça-Feira  32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.02% 
-Quarta-Feira 20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Quinta-Feira 31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
-Sexta-Feira  21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-sábado       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Segunda-Feira10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Terça-Feira  31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+Quarta-Feira 20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Quinta-Feira 31 commits     ██████░░░░░░░░░░░░░░░░░░░   25.41% 
+Sexta-Feira  21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+sábado       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
 domingo      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -83,5 +83,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
