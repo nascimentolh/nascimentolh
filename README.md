@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -30,9 +30,9 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã      14 commits     ██████████████░░░░░░░░░░░   58.33% 
-🌆 Tarde      7 commits      ███████░░░░░░░░░░░░░░░░░░   29.17% 
-🌃 Noite      3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌞 Manhã      12 commits     ███████████████░░░░░░░░░░   60.0% 
+🌆 Tarde      7 commits      ████████░░░░░░░░░░░░░░░░░   35.0% 
+🌃 Noite      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -40,11 +40,11 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 ```text
 Segunda-Feira0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Terça-Feira  4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Quarta-Feira 11 commits     ███████████░░░░░░░░░░░░░░   45.83% 
-Quinta-Feira 1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Sexta-Feira  2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-sábado       6 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Terça-Feira  4 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Quarta-Feira 11 commits     █████████████░░░░░░░░░░░░   55.0% 
+Quinta-Feira 1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Sexta-Feira  2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+sábado       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 domingo      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -83,5 +83,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/03/2022 01:39:49 UTC
+ Last Updated on 29/03/2022 01:47:09 UTC
 <!--END_SECTION:waka-->
