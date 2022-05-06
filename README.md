@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -83,5 +83,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/05/2022 01:57:31 UTC
+ Last Updated on 06/05/2022 01:51:07 UTC
 <!--END_SECTION:waka-->
