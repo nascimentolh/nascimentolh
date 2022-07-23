@@ -19,15 +19,15 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 1 Contribuições no ano de 2022
+> 🏆 3 Contribuições no ano de 2022
  > 
-> 📦 516.6 kB Usado no armazenamento do GitHub 
+> 📦 814.3 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
 > 📜 25 Repositórios Públicos 
  > 
-> 🔑 12 Repositórios Privados  
+> 🔑 14 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -71,11 +71,11 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Elixir                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Elixir                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
 
 ```
 
@@ -85,5 +85,5 @@ PHP                      4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 02:16:33 UTC
+ Last Updated on 23/07/2022 02:18:44 UTC
 <!--END_SECTION:waka-->
