@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -85,5 +85,5 @@ Elixir                   5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2022 02:18:39 UTC
+ Last Updated on 18/08/2022 02:31:10 UTC
 <!--END_SECTION:waka-->
