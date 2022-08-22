@@ -29,45 +29,6 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
  > 
 > 🔑 14 Repositórios Privados  
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã      2 commits      █████████████████████████   100.0% 
-🌆 Tarde      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Noite      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **Sou mais produtivo em Terça-Feira** 
-
-```text
-Segunda-Feira0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Terça-Feira  2 commits      █████████████████████████   100.0% 
-Quarta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Quinta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-sábado       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-domingo      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-
-💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
-
-```
-
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -85,5 +46,5 @@ Elixir                   5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 02:15:13 UTC
+ Last Updated on 22/08/2022 02:17:14 UTC
 <!--END_SECTION:waka-->
