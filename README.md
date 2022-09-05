@@ -11,7 +11,7 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
 [![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
 
@@ -29,45 +29,6 @@ Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já partic
  > 
 > 🔑 14 Repositórios Privados  
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã      2 commits      █████████████████████████   100.0% 
-🌆 Tarde      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Noite      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **Sou mais produtivo em Terça-Feira** 
-
-```text
-Segunda-Feira0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Terça-Feira  2 commits      █████████████████████████   100.0% 
-Quarta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Quinta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-sábado       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-domingo      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-
-💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
-
-```
-
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -85,5 +46,5 @@ Elixir                   5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 02:31:31 UTC
+ Last Updated on 05/09/2022 02:35:03 UTC
 <!--END_SECTION:waka-->
