@@ -1,89 +1,72 @@
+# Luiz Henrique Nunes Nascimento
 
-# Luiz Nascimento
-Trabalhando com desenvolvimento web desde 2012. Com foco em back-end, já participei de diversos projetos que impactam muitos usuários e empresas. Buscando sempre escalabilidade, confiabilidade e segurança de dados :computer:
+## Desenvolvedor FullStack
 
- :rocket:  &nbsp; Estou trabalhando na **Riachuelo**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando Node.JS
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix, atualmente estudando Elixir
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuizNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhnnh/)](https://www.linkedin.com/in/luizhnnh/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-luizh.nnh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizh.nnh@gmail.com)](mailto:luizh.nnh@gmail.com)
+### Sobre Mim
+Olá! 👋 Eu sou Luiz Henrique Nunes Nascimento, um desenvolvedor FullStack com fortes habilidades em Back-end. Além do meu amor pela programação, eu também sou entusiasta de mecânica automotiva, especialmente carros antigos e preparações.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue)
+### Tecnologias que eu uso
+- Angular.JS
+- React Native
+- React.JS
+- Java
+- Node.JS
+- PHP
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+### Contatos
+- [LinkedIn](https://www.linkedin.com/in/luizhnnh/)
+- E-mail: luizh.nnh@gmail.com
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-7%20Million%20linhas%20de%20c%C3%B3digo-blue)
+### Hobbies
+Meu hobby é mexer com mecânica automotiva, especialmente carros antigos e preparações.
 
-**🐱 Meus dados no GitHub** 
+# Badges
 
-> 🏆 3 Contribuições no ano de 2022
- > 
-> 📦 814.4 kB Usado no armazenamento do GitHub 
- > 
-> 🚫 Não aberto para contratação
- > 
-> 📜 25 Repositórios Públicos 
- > 
-> 🔑 14 Repositórios Privados  
- > 
-**Eu sou diurno 🐤** 
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizhnnh/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nascimentolh)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiznascimento.io/)
 
-```text
-🌞 Manhã      2 commits      █████████████████████████   100.0% 
-🌆 Tarde      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Noite      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Madrugada  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+## Linguagens de Marcação e Estilo
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-```
-📅 **Sou mais produtivo em Terça-Feira** 
+## Linguagens de Programação
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-```text
-Segunda-Feira0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Terça-Feira  2 commits      █████████████████████████   100.0% 
-Quarta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Quinta-Feira 0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sexta-Feira  0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-sábado       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-domingo      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+## Frameworks e Bibliotecas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-```
+## Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-📊 **Esta semana eu gastei meu tempo em** 
+## Outras Tecnologias
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white)
 
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
+## Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-
-💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
-
-```
-
-**Eu geralmente programo em JavaScript** 
-
-```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Elixir                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
-
-```
-
-
-**Linha do tempo**
-
-![Chart not found](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 02:15:07 UTC
-<!--END_SECTION:waka-->
+```javascript
+console.log("Obrigado por visitar meu perfil!");
