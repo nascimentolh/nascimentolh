@@ -3,15 +3,13 @@
 ## Desenvolvedor FullStack
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%205%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,242 Contributions in the Year 2026
+> 🏆 8,264 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                77295 commits       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-🌆 Daytime                126769 commits      ██████████░░░░░░░░░░░░░░░   38.93 % 
-🌃 Evening                104863 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌙 Night                  16688 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌞 Morning                78362 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                128620 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                106324 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  16942 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   63208 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Tuesday                  44681 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                50060 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 36889 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Friday                   53054 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Saturday                 40616 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   37107 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   64080 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Tuesday                  45277 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Wednesday                50840 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Thursday                 37416 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Friday                   53784 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Saturday                 41182 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   37669 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 
 
@@ -46,25 +44,25 @@ Sunday                   37107 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       21 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.41 % 
-Markdown                 8 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Other                    2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Java                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+C#                       19 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   37.23 % 
+Markdown                 8 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+TypeScript               4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Rust                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Java                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-Claude Code              43 hrs 48 mins      ████████████████████████░   95.90 % 
-VS Code                  1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Claude Code              49 hrs 56 mins      ████████████████████████░   94.92 % 
+VS Code                  2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🐱‍💻 Projects: 
-L2Sharp                  25 hrs 19 mins      ██████████████░░░░░░░░░░░   55.42 % 
-WieManager_Backend       4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Aden-Reverie-Project     3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-AppAndroidTicketingTessel2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-WieManager_Frontend      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+L2Sharp                  21 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+WieManager_Backend       5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+L2RReverie               4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Aden-Reverie-Project     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+AppAndroidTicketingTessel2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Windows                  45 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  52 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,5 +82,5 @@ Kotlin                   3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:48:20 UTC
+ Last Updated on 24/07/2026 19:52:21 UTC
 <!--END_SECTION:waka-->
