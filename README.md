@@ -3,17 +3,13 @@
 ## Desenvolvedor FullStack
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-929%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,393 Contributions in the Year 2026
+> 🏆 8,397 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -25,20 +21,20 @@
 
 ```text
 🌞 Morning                78404 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                128674 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌆 Daytime                128675 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
 🌃 Evening                106377 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
 🌙 Night                  16942 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   64100 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Monday                   64104 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Tuesday                  45277 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Wednesday                50852 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 Thursday                 37418 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Friday                   53824 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
 Saturday                 41226 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   37700 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Sunday                   37697 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 
 
@@ -48,22 +44,22 @@ Sunday                   37700 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-C#                       14 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Markdown                 13 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Rust                     15 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Markdown                 12 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+C#                       11 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Kotlin                   8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 C++                      8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Kotlin                   5 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔥 Editors: 
-Claude Code              77 hrs 22 mins      ████████████████████████░   94.68 % 
-VS Code                  4 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Claude Code              77 hrs 18 mins      ████████████████████████░   94.58 % 
+VS Code                  4 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🐱‍💻 Projects: 
-game-server-r            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-L2Sharp                  14 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+game-server-r            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 634-client-cpp           10 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+game-server              10 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 L2RReverie               7 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-WieManager_Backend       5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+L2Sharp                  6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 💻 Operating System: 
 Windows                  81 hrs 44 mins      █████████████████████████   100.00 % 
@@ -72,33 +68,33 @@ Windows                  81 hrs 44 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 22 mins (99.56%)
+⏱ AI Coding Time: 81 hrs 21 mins (99.54%)
 
-✍️ 237,630 lines written by AI, 25 lines written by hand (99.99% AI-written)
+✍️ 228,005 lines written by AI, 25 lines written by hand (99.99% AI-written)
 
-🔤 5,535,468,987 Input Tokens, 13,250,016 Output Tokens
+🔤 5,724,975,778 Input Tokens, 12,774,356 Output Tokens
 
-💵 $28441.10 Estimated AI Cost This Week
+💵 $29765.46 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 788 AI Prompts
+🧠 105 AI Sessions, 839 AI Prompts
 
-Opus                     245,251 lines       █████████████████████████   100.00 % 
+Opus                     235,047 lines       █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 368 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               61 repos            █████████░░░░░░░░░░░░░░░░   34.66 % 
-Java                     27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               61 repos            █████████░░░░░░░░░░░░░░░░   34.86 % 
+Java                     27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
@@ -109,5 +105,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:00:05 UTC
+ Last Updated on 28/07/2026 19:53:03 UTC
 <!--END_SECTION:waka-->
