@@ -3,6 +3,10 @@
 ## Desenvolvedor FullStack
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-955%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,46 +48,46 @@ Sunday                   37697 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     15 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Markdown                 12 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-C#                       11 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Kotlin                   8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-C++                      8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Rust                     15 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Markdown                 11 hrs 45 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+C++                      8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Kotlin                   8 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+C#                       5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🔥 Editors: 
-Claude Code              77 hrs 18 mins      ████████████████████████░   94.58 % 
-VS Code                  4 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Claude Code              65 hrs 59 mins      ███████████████████████░░   93.73 % 
+VS Code                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🐱‍💻 Projects: 
-game-server-r            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-634-client-cpp           10 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-game-server              10 hrs 2 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-L2RReverie               7 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-L2Sharp                  6 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+game-server-r            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+634-client-cpp           10 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+game-server              10 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+L2RReverie               7 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Tessel-Frontend          4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 💻 Operating System: 
-Windows                  81 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  70 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 21 mins (99.54%)
+⏱ AI Coding Time: 70 hrs 1 min (99.47%)
 
-✍️ 228,005 lines written by AI, 25 lines written by hand (99.99% AI-written)
+✍️ 198,971 lines written by AI, 17 lines written by hand (99.99% AI-written)
 
-🔤 5,724,975,778 Input Tokens, 12,774,356 Output Tokens
+🔤 4,586,745,414 Input Tokens, 10,637,189 Output Tokens
 
-💵 $29765.46 Estimated AI Cost This Week
+💵 $24512.73 Estimated AI Cost This Week
 
-🧠 105 AI Sessions, 839 AI Prompts
+🧠 90 AI Sessions, 723 AI Prompts
 
-Opus                     235,047 lines       █████████████████████████   100.00 % 
+Opus                     206,992 lines       █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 368 characters per prompt
+📝 Concise Prompter — average 350 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -105,5 +109,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:53:03 UTC
+ Last Updated on 29/07/2026 19:42:55 UTC
 <!--END_SECTION:waka-->
