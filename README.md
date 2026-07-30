@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78404 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                128675 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌃 Evening                106377 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌙 Night                  16942 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌞 Morning                78912 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                129533 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                107074 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  17056 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   64104 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Tuesday                  45277 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                50852 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Thursday                 37418 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Friday                   53824 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Saturday                 41226 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   37697 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   64521 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Tuesday                  45575 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Wednesday                51201 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 37665 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Friday                   54176 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Saturday                 41505 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Sunday                   37932 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 
 
@@ -48,46 +48,46 @@ Sunday                   37697 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     15 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Markdown                 11 hrs 45 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-C++                      8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Kotlin                   8 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-C#                       5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Rust                     14 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Markdown                 9 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+C++                      8 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Kotlin                   7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Java                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Claude Code              65 hrs 59 mins      ███████████████████████░░   93.73 % 
-VS Code                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Claude Code              55 hrs 25 mins      ████████████████████████░   94.17 % 
+VS Code                  3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🐱‍💻 Projects: 
-game-server-r            14 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-634-client-cpp           10 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-game-server              10 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-L2RReverie               7 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tessel-Frontend          4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+game-server-r            14 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+634-client-cpp           10 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+game-server              9 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+L2RReverie               6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Tessel-Frontend          4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Windows                  70 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  58 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 70 hrs 1 min (99.47%)
+⏱ AI Coding Time: 58 hrs 35 mins (99.55%)
 
-✍️ 198,971 lines written by AI, 17 lines written by hand (99.99% AI-written)
+✍️ 157,063 lines written by AI, 11 lines written by hand (99.99% AI-written)
 
-🔤 4,586,745,414 Input Tokens, 10,637,189 Output Tokens
+🔤 3,641,682,407 Input Tokens, 8,381,730 Output Tokens
 
-💵 $24512.73 Estimated AI Cost This Week
+💵 $20047.67 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 723 AI Prompts
+🧠 74 AI Sessions, 578 AI Prompts
 
-Opus                     206,992 lines       █████████████████████████   100.00 % 
+Opus                     164,610 lines       █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
+📝 Concise Prompter — average 385 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -109,5 +109,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:42:55 UTC
+ Last Updated on 30/07/2026 19:56:38 UTC
 <!--END_SECTION:waka-->
