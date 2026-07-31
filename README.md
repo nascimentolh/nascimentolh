@@ -13,20 +13,20 @@
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,397 Contributions in the Year 2026
+> 🏆 8,477 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 52 Public Repositories 
  > 
-> 🔑 121 Private Repositories 
+> 🔑 122 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78912 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                129533 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
-🌃 Evening                107074 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌞 Morning                78938 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌆 Daytime                129556 commits      ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                107104 commits      ████████░░░░░░░░░░░░░░░░░   32.20 % 
 🌙 Night                  17056 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -34,11 +34,11 @@
 ```text
 Monday                   64521 commits       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Tuesday                  45575 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                51201 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Thursday                 37665 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Friday                   54176 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                51212 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Thursday                 37711 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Friday                   54198 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
 Saturday                 41505 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Sunday                   37932 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Sunday                   37932 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 ```
 
 
@@ -48,46 +48,46 @@ Sunday                   37932 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     14 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-Markdown                 9 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-C++                      8 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Kotlin                   7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Java                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Rust                     12 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Markdown                 8 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+C++                      7 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Kotlin                   7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Java                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Claude Code              55 hrs 25 mins      ████████████████████████░   94.17 % 
-VS Code                  3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Claude Code              48 hrs              ████████████████████████░   95.29 % 
+VS Code                  2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🐱‍💻 Projects: 
-game-server-r            14 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-634-client-cpp           10 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-game-server              9 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-L2RReverie               6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Tessel-Frontend          4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+game-server-r            14 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+634-client-cpp           10 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+game-server              9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Backend-Tessel           3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Tessel-Frontend          3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Windows                  58 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  50 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 35 mins (99.55%)
+⏱ AI Coding Time: 50 hrs 15 mins (99.78%)
 
-✍️ 157,063 lines written by AI, 11 lines written by hand (99.99% AI-written)
+✍️ 140,863 lines written by AI, 7 lines written by hand (100.0% AI-written)
 
-🔤 3,641,682,407 Input Tokens, 8,381,730 Output Tokens
+🔤 3,329,132,955 Input Tokens, 7,257,325 Output Tokens
 
-💵 $20047.67 Estimated AI Cost This Week
+💵 $18552.67 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 578 AI Prompts
+🧠 59 AI Sessions, 480 AI Prompts
 
-Opus                     164,610 lines       █████████████████████████   100.00 % 
+Opus                     148,505 lines       █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 373 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -95,10 +95,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               61 repos            █████████░░░░░░░░░░░░░░░░   34.86 % 
-Java                     27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TypeScript               61 repos            █████████░░░░░░░░░░░░░░░░   34.66 % 
+Java                     27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
@@ -109,5 +109,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 19:56:38 UTC
+ Last Updated on 31/07/2026 19:56:40 UTC
 <!--END_SECTION:waka-->
