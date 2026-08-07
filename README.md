@@ -3,42 +3,38 @@
 ## Desenvolvedor FullStack
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-955%20hrs%2031%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.2 MB Used in GitHub's Storage 
+> 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 7,996 Contributions in the Year 2026
+> 🏆 8,118 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 112 Private Repositories 
+> 🔑 113 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                79311 commits       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌆 Daytime                130673 commits      ██████████░░░░░░░░░░░░░░░   38.93 % 
-🌃 Evening                108377 commits      ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌙 Night                  17280 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+🌞 Morning                103449 commits      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌆 Daytime                171135 commits      ██████████░░░░░░░░░░░░░░░   39.01 % 
+🌃 Evening                141443 commits      ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌙 Night                  22655 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   64684 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Tuesday                  46123 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Wednesday                51850 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 38094 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   54805 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Saturday                 42065 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Sunday                   38020 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Monday                   84323 commits       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Tuesday                  60129 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Wednesday                68269 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Thursday                 49801 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Friday                   71627 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Saturday                 55193 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Sunday                   49340 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 
@@ -69,11 +65,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               57 repos            ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Java                     25 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Kotlin                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               57 repos            ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Java                     25 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Rust                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Kotlin                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
@@ -83,5 +79,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 19:57:40 UTC
+ Last Updated on 07/08/2026 19:50:01 UTC
 <!--END_SECTION:waka-->
