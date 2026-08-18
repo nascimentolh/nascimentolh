@@ -7,7 +7,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-955%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nascimentolh/nascimentolh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 20:06:17 UTC
+ Last Updated on 18/08/2026 19:58:14 UTC
 <!--END_SECTION:waka-->
